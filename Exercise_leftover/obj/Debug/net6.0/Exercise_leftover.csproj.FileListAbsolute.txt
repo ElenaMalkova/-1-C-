@@ -1,0 +1,15 @@
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\obj\Debug\net6.0\Exercise_leftover.csproj.AssemblyReference.cache
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\obj\Debug\net6.0\Exercise_leftover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\obj\Debug\net6.0\Exercise_leftover.AssemblyInfoInputs.cache
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\obj\Debug\net6.0\Exercise_leftover.AssemblyInfo.cs
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\obj\Debug\net6.0\Exercise_leftover.csproj.CoreCompileInputs.cache
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\bin\Debug\net6.0\Exercise_leftover.exe
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\bin\Debug\net6.0\Exercise_leftover.deps.json
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\bin\Debug\net6.0\Exercise_leftover.runtimeconfig.json
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\bin\Debug\net6.0\Exercise_leftover.dll
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\bin\Debug\net6.0\Exercise_leftover.pdb
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\obj\Debug\net6.0\Exercise_leftover.dll
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\obj\Debug\net6.0\refint\Exercise_leftover.dll
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\obj\Debug\net6.0\Exercise_leftover.pdb
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\obj\Debug\net6.0\Exercise_leftover.genruntimeconfig.cache
+C:\Users\Константин\OneDrive\Desktop\Учусь\C Sharp Seminars\Seminar_1\Exercise_leftover\obj\Debug\net6.0\ref\Exercise_leftover.dll
